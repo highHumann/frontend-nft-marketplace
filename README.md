@@ -1,6 +1,6 @@
 # NextJS NFT Marketplace with TheGraph
 
-This is a frontend file for decentralized nft marketplace in nextjs.
+This is a frontend repository for decentralized nft marketplace written in nextjs.
 
 ## Functionalities
 The frontend provide these functionalities
